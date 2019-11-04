@@ -17,8 +17,18 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Research Fellow"
+  title = "Experimental Methods for the Social Sciences (Workshop)"
+  company = "GIGA Hamburg"
+  company_url = "https://www.giga-hamburg.de"
+  location = "Hamburg, Germany"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """"""
+  
+[[experience]]
+  title = "Experimental Methods; Datenerhebung/Data collection"
   company = "Mannheim Centre for European Social Research"
   company_url = "https://www.mzes.uni-mannheim.de/d7/en"
   location = "Mannheim, Germany"
