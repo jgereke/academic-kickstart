@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.giga-hamburg.de"
   location = "Hamburg, Germany"
   date_start = "2019-10-01"
-  date_end = ""
+  date_end = "2019-10-01"
   description = """"""
   
 [[experience]]
