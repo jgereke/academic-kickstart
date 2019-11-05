@@ -21,7 +21,11 @@ organizations:
 bio: My research interests include intergroup relations, migration and discrimination and cooperative behavior in modern societies.
 
 interests:
-- intergroup relations, migration and discrimination and cooperative behavior in modern societies
+- intergroup relations 
+- migration  
+- discrimination 
+- trust and cooperation
+- poverty and inequality
 
 education:
   courses:
@@ -69,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral research fellow at the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration. discrimination and cooperative behavior in modern societies.
+I am a postdoctoral research fellow at the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration, discrimination and cooperative behavior in modern societies.
 Other research projects examine biased beliefs and superstitions in migration decision-making, the link between physical attractiveness and immigrants’ integration outcomes and the relationship between unemployment, poverty and prosociality, political engagement and trust.  
 
 My research draws on a range of experimental and quasi-experimental methods, including original lab-in-the-field, survey and field experiments.
