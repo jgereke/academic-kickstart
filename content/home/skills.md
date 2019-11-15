@@ -55,11 +55,5 @@ subtitle = ""
   icon_pack = "fas"
   name = "French"
   description = "intermediate"
-  
-  [[feature]]
-  icon = "globe-europe"
-  icon_pack = "fas"
-  name = "Italian"
-  description = "basic"
 
 +++
