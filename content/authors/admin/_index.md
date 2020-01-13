@@ -79,6 +79,8 @@ Other research projects examine biased beliefs and superstitions in migration de
 My research draws on a range of experimental and quasi-experimental methods, including original lab-in-the-field, survey and field experiments.
 Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
 
+I have recently been awarded a Junior Fellowship for Innovation in Teaching from the Baden-Würrtemberg Foundation for my course project "Replication & Reproduction in the Social Sciences" (2020-2022).
+
 
 
 
